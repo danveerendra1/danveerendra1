@@ -51,8 +51,7 @@ From dev tools to offline AI experiments to backend systems with real-world util
 
 ## 🤝 Let’s Connect
 
-📧 **Email**: danveerendra1@gmail.com
-
+📧 **Email**: danveerendra1@gmail.com 
 💼 [LinkedIn](https://www.linkedin.com/in/tkmojesh/)  
 🌐 [Portfolio](https://www.tkmojesh.xyz)
 
