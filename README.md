@@ -54,6 +54,7 @@ From dev tools to offline AI experiments to backend systems with real-world util
 📧 **Email**: danveerendra1@gmail.com 
 💼 [LinkedIn](https://www.linkedin.com/in/dan-veerendra-lella/)  
 🌐 [Portfolio]()
+
 ---
 
 ## 🧠 Why Follow Me?
