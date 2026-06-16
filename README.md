@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Dan Veerendra!
+# 👋 Hey, I’m Lella Dan Veerendra!
 
 Welcome to my corner of GitHub 👨‍💻  
 I’m a **Backend Developer | Web3 Engineer | Builder in Progress** —  
